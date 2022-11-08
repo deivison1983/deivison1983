@@ -7,7 +7,7 @@ Eu sou cientista de dados e neste github apresento os projetos que compõem o me
 
 ## ***Um pouco da minha trajetória***
 
-Sou formado em engenharia de produção civil e desde 2010 atuo na área de engenharia de avaliações e perícias. Entretanto, no final do ano de 2018, ao ler um livro, totalmente por acaso, se deu o início do meu processo de transição de carreira. Definitivamente, ler o livro Indústria 4.0 Conceitos e Fundamentos foi uma grande virada de chave na minha vida !! O despertar para todas as grandes transformações tecnologicas que estão ocorrendo simulteneamente desde o início da quarta revolução industrial me fez buscar um novo propósito profissional e de vida.
+Sou formado em engenharia de produção civil e desde 2010 atuei na área de engenharia de avaliações e perícias. Entretanto, no final do ano de 2018, ao ler um livro, totalmente por acaso, se deu o início do meu processo de transição de carreira. Definitivamente, ler o livro Indústria 4.0 Conceitos e Fundamentos foi uma grande virada de chave na minha vida !! O despertar para todas as grandes transformações tecnologicas que estão ocorrendo simulteneamente desde o início da quarta revolução industrial me fez buscar um novo propósito profissional e de vida.
 
 No livro "A Origem das Espécies", Charles Darwin detalha o conceito de Natura non facit saltum, "a natureza não dá saltos". A ideia que toda evolução de uma espécie ocorre através de um processo de adaptação é singular. O meu caminho natural de adaptação foi buscar mais conhecimento sobre essa nova revolução tecnológica e assim em março de 2019 iniciei o MBA em indústria 4.0 na PUC-Minas, sendo, na época, o primeiro curso de MBA sobre esse assunto autorizado pelo MEC no Brasil.
 
