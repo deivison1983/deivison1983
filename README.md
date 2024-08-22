@@ -53,7 +53,7 @@ Ferramentas
       </td>
       <td width="25%" align="center">
         <span>SciPy</span><br><br>
-        <img height="64px" src="https://bids.berkeley.edu/sites/default/files/styles/450x254/public/projects/scipy_logo_450x254.png?itok=kcdZBxrP">
+        <img height="64px" src="https://scipy.org/images/logo.svg">
       </td>
     </tr>
     <tr valign="top">
