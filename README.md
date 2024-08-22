@@ -122,7 +122,7 @@ Ferramentas
       </td>
        <td width="25%" align="center">
         <span>Pingouin</span><br><br>
-        <img height="64px" src="https://pingouin-stats.org/_images/logo_pingouin.png">
+        <img height="64px" src="https://pingouin-stats.org/build/html/_images/logo_pingouin.png">
       </td>
       <td width="25%" align="center">
         <span>Streamlit</span><br><br>
