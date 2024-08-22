@@ -126,7 +126,7 @@ Ferramentas
       </td>
       <td width="25%" align="center">
         <span>Streamlit</span><br><br>
-        <img height="64px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e18182ad27bcfbb9dff263a_RGB_Logo_Horizontal_Color_Light_Bg-p-1080.png">
+        <img height="64px" src="https://docs.streamlit.io/logo.svg">
       </td>
     </tr> 
   </tbody>
